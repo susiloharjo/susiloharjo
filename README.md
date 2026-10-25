@@ -8,9 +8,10 @@ Maker dan tinkerer di persimpangan **IoT**, **AI**, dan **automation**. Saya suk
 
 ## Lagi Ngulik
 
-- AI agent dan automation (n8n, Gemini)
+- AI agent dan automation 
 - Edge AI di Jetson Nano dan Orange Pi
 - Monitoring IoT dan dashboard data
+- Multi Agent for Business
 
 ## Tulisan & Video
 
