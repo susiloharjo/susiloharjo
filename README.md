@@ -17,7 +17,7 @@ Maker dan tinkerer di persimpangan **IoT**, **AI**, dan **automation**. Saya suk
 - Blog dev: [susiloharjo.web.id](https://susiloharjo.web.id)
 - Blog lama: [kakeko.wordpress.com](https://kakeko.wordpress.com)
 - YouTube: [@susiloharjo](https://www.youtube.com/@susiloharjo)
-- LIkendin :  [@susiloharjo](https://linkedin.com/in/susiloharjo/)
+- LinkedIn :  [@susiloharjo](https://linkedin.com/in/susiloharjo/)
 - Instagram: [@teknologynow](https://www.instagram.com/teknologinow)
 
 ## Terhubung
