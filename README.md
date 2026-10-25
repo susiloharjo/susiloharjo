@@ -20,6 +20,9 @@ Maker dan tinkerer di persimpangan **IoT**, **AI**, dan **automation**. Saya suk
 - YouTube: [@susiloharjo](https://www.youtube.com/@susiloharjo)
 - LinkedIn :  [@susiloharjo](https://linkedin.com/in/susiloharjo/)
 - Instagram: [@teknologynow](https://www.instagram.com/teknologinow)
+- My start up : [sixstem](https://sixstem.com)
+
+
 
 ## Terhubung
 
